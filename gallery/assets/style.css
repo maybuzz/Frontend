@@ -1,0 +1,27 @@
+body {
+  color: peru;
+  background-color: grey;
+}
+
+li {
+  list-style-type: none;
+  box-sizing: border-box;
+  display: inline;
+}
+
+ul {
+  width: 10000px;
+  height: 504px;
+  overflow: auto;
+  white-space: nowrap;
+
+}
+
+img {
+  border: 2px solid transparant
+  object-fit: contain;
+}
+
+img:hover {
+  border: 2px solid peru
+}
